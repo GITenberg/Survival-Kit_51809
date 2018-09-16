@@ -1,0 +1,42 @@
+_repo: Survival-Kit_51809
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gaughan, Jack
+    aliases:
+    - Gaughan
+    - Gaughan, John Brian Francis
+    birthdate: 1930
+    deathdate: 1985
+    gutenberg_agent_id: '35615'
+    url: http://www.gutenberg.org/2009/agents/35615
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+creator:
+  author:
+    agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederik George, Jr.
+    - Pohl, Frederick
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/46565
+    - http://en.wikipedia.org/wiki/Frederik_Pohl
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Survival Kit
+url: http://www.gutenberg.org/ebooks/51809
